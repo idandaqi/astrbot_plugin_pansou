@@ -1,0 +1,6 @@
+name: astrbot_plugin_pansou
+display_name: 盘搜 PanSou
+desc: 对接自建 PanSou 网盘搜索 API，支持百度、阿里、夸克等 10+ 网盘聚合搜索
+version: 1.0.0
+author: tadaki
+repo: https://github.com/yourname/astrbot_plugin_pansou

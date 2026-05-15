@@ -1,0 +1,17 @@
+{
+  "api_base": {
+    "description": "PanSou 服务地址，例如 http://192.168.1.100:8888",
+    "type": "string",
+    "default": "http://localhost:8888"
+  },
+  "max_results": {
+    "description": "每种网盘类型最多显示条数（建议 3-10）",
+    "type": "int",
+    "default": 5
+  },
+  "timeout": {
+    "description": "等待 PanSou 响应的最长时间（秒）",
+    "type": "int",
+    "default": 20
+  }
+}
